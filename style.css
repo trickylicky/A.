@@ -1,0 +1,47 @@
+html{
+    height: 100%;
+}
+h1{
+    text-align: center;
+}
+body{
+    background: linear-gradient(to right,red,blue);
+}
+#nav{
+    font-size: 30px;
+}
+#logo{
+    height: 2.7em;
+    width: 2.7em;
+}
+#answer{
+    margin-top: 5pc;
+    margin-right: 20pc;
+    margin-left: 20pc;
+    border: 1pc solid green;
+    border-radius: 14pc;
+    text-align: center;
+    display: block;
+    font-size: 1pc;
+    background-image: linear-gradient(to right,blue,red);
+}
+button {
+	text-align: center;
+	font: 14px,sans-serif;
+	padding: 1pc;
+	border-radius: 5em;
+	
+}
+.form{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+#demo{
+    font-size: 2.7pc;
+    padding-left: 0.5em;
+    margin-top: 1em;
+    margin-right: 7em;
+    transform: matrix(1, 0, 0.5, 1, 150, 0);
+    border: 0.1em solid blue;
+    background-image: linear-gradient(to right,blue,red);
+}
